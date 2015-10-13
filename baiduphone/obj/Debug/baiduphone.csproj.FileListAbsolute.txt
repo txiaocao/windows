@@ -1,0 +1,6 @@
+C:\xiaok\svn\huobao\baiduphone\bin\Debug\baiduphone.exe.config
+C:\xiaok\svn\huobao\baiduphone\bin\Debug\baiduphone.exe
+C:\xiaok\svn\huobao\baiduphone\bin\Debug\baiduphone.pdb
+C:\xiaok\svn\huobao\baiduphone\obj\Debug\baiduphone.csprojResolveAssemblyReference.cache
+C:\xiaok\svn\huobao\baiduphone\obj\Debug\baiduphone.exe
+C:\xiaok\svn\huobao\baiduphone\obj\Debug\baiduphone.pdb

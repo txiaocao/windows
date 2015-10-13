@@ -1,0 +1,17 @@
+c:\Users\k\documents\visual studio 2015\Projects\pubHTML5\ConsolePublishHtml5\bin\Debug\ConsolePublishHtml5.exe.config
+c:\Users\k\documents\visual studio 2015\Projects\pubHTML5\ConsolePublishHtml5\bin\Debug\ConsolePublishHtml5.exe
+c:\Users\k\documents\visual studio 2015\Projects\pubHTML5\ConsolePublishHtml5\bin\Debug\ConsolePublishHtml5.pdb
+c:\Users\k\documents\visual studio 2015\Projects\pubHTML5\ConsolePublishHtml5\obj\Debug\ConsolePublishHtml5.exe
+c:\Users\k\documents\visual studio 2015\Projects\pubHTML5\ConsolePublishHtml5\obj\Debug\ConsolePublishHtml5.pdb
+C:\Users\k\Documents\Visual Studio 2015\Projects\Windows\pubHTML5\ConsolePublishHtml5\bin\Debug\ConsolePublishHtml5.exe.config
+C:\Users\k\Documents\Visual Studio 2015\Projects\Windows\pubHTML5\ConsolePublishHtml5\obj\Debug\ConsolePublishHtml5.exe
+C:\Users\k\Documents\Visual Studio 2015\Projects\Windows\pubHTML5\ConsolePublishHtml5\obj\Debug\ConsolePublishHtml5.pdb
+C:\Users\k\Documents\Visual Studio 2015\Projects\Windows\pubHTML5\ConsolePublishHtml5\bin\Debug\ConsolePublishHtml5.exe
+C:\Users\k\Documents\Visual Studio 2015\Projects\Windows\pubHTML5\ConsolePublishHtml5\bin\Debug\ConsolePublishHtml5.pdb
+C:\Users\k\Documents\Visual Studio 2015\Projects\Windows\pubHTML5\ConsolePublishHtml5\obj\Debug\ConsolePublishHtml5.csprojResolveAssemblyReference.cache
+C:\Users\k\Documents\Visual Studio 2015\Projects\Windows\ConsolePublishHtml5\bin\Debug\ConsolePublishHtml5.exe.config
+C:\Users\k\Documents\Visual Studio 2015\Projects\Windows\ConsolePublishHtml5\obj\Debug\ConsolePublishHtml5.exe
+C:\Users\k\Documents\Visual Studio 2015\Projects\Windows\ConsolePublishHtml5\obj\Debug\ConsolePublishHtml5.pdb
+C:\Users\k\Documents\Visual Studio 2015\Projects\Windows\ConsolePublishHtml5\bin\Debug\ConsolePublishHtml5.exe
+C:\Users\k\Documents\Visual Studio 2015\Projects\Windows\ConsolePublishHtml5\bin\Debug\ConsolePublishHtml5.pdb
+C:\Users\k\Documents\Visual Studio 2015\Projects\Windows\ConsolePublishHtml5\obj\Debug\ConsolePublishHtml5.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+c:\users\cof\documents\visual studio 2015\Projects\WindowsFormsBus\WindowsFormsBus\bin\Debug\WindowsFormsBus.exe.config
+c:\users\cof\documents\visual studio 2015\Projects\WindowsFormsBus\WindowsFormsBus\obj\Debug\WindowsFormsBus.csprojResolveAssemblyReference.cache
+c:\users\cof\documents\visual studio 2015\Projects\WindowsFormsBus\WindowsFormsBus\obj\Debug\WindowsFormsBus.Form1.resources
+c:\users\cof\documents\visual studio 2015\Projects\WindowsFormsBus\WindowsFormsBus\obj\Debug\WindowsFormsBus.Properties.Resources.resources
+c:\users\cof\documents\visual studio 2015\Projects\WindowsFormsBus\WindowsFormsBus\obj\Debug\WindowsFormsBus.csproj.GenerateResource.Cache
+c:\users\cof\documents\visual studio 2015\Projects\WindowsFormsBus\WindowsFormsBus\bin\Debug\WindowsFormsBus.exe
+c:\users\cof\documents\visual studio 2015\Projects\WindowsFormsBus\WindowsFormsBus\bin\Debug\WindowsFormsBus.pdb
+c:\users\cof\documents\visual studio 2015\Projects\WindowsFormsBus\WindowsFormsBus\obj\Debug\WindowsFormsBus.exe
+c:\users\cof\documents\visual studio 2015\Projects\WindowsFormsBus\WindowsFormsBus\obj\Debug\WindowsFormsBus.pdb
+c:\Users\cof\Documents\Visual Studio 2015\Projects\WindowsFormsBus\WindowsFormsBus\bin\Debug\data\公交分类.txt

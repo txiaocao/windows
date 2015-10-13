@@ -1,0 +1,8 @@
+c:\xiaok\computer\Documents\Visual Studio 2015\Projects\bing3v\bing3v\bin\Release\bing3v.exe.config
+c:\xiaok\computer\Documents\Visual Studio 2015\Projects\bing3v\bing3v\bin\Release\bing3v.exe
+c:\xiaok\computer\Documents\Visual Studio 2015\Projects\bing3v\bing3v\bin\Release\bing3v.pdb
+c:\xiaok\computer\Documents\Visual Studio 2015\Projects\bing3v\bing3v\obj\Release\bing3v.Form1.resources
+c:\xiaok\computer\Documents\Visual Studio 2015\Projects\bing3v\bing3v\obj\Release\bing3v.Properties.Resources.resources
+c:\xiaok\computer\Documents\Visual Studio 2015\Projects\bing3v\bing3v\obj\Release\bing3v.csproj.GenerateResource.Cache
+c:\xiaok\computer\Documents\Visual Studio 2015\Projects\bing3v\bing3v\obj\Release\bing3v.exe
+c:\xiaok\computer\Documents\Visual Studio 2015\Projects\bing3v\bing3v\obj\Release\bing3v.pdb
